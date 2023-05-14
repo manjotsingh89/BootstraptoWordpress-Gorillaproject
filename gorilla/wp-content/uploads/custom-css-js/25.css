@@ -1,0 +1,65 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+div#singleblogpage, #otherpage {
+    margin-top: 163px!important;
+    margin-bottom: 100px!important;
+}
+.body-wrapper.float-menu {
+    background-color: #2d2418;
+    /* border-top: 5px solid #3f3221; */
+    padding-top: 0;
+    padding-bottom: 0;
+    color: white;
+}
+h1.entry-title {
+    font-size: 30px;
+    font-weight: 100;
+    padding: 15px 0 7px 0;
+    color: white;
+}
+div#singleblogpage h2 {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px 0 7px 0;
+    color: white;
+}
+div#singleblogpage a:hover {
+    color: #eab73c;
+	font-weight:bold;
+}
+div#singleblogpage a {
+    color: #eab73c;
+}
+
+
+#otherpage h2 {
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px 0 7px 0;
+    color: white;
+}
+#otherpage a:hover {
+    color: #eab73c;
+	font-weight:bold;
+}
+#otherpage a {
+    color: #eab73c;
+}
+div#div1 {
+    margin-top: 25px;
+}
+div#div2{
+	 margin-top: 40px;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

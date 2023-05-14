@@ -1,0 +1,58 @@
+.reviews img{
+  max-width: 800px;
+  align-items: center;
+  position: relative;
+  left: 350px;
+}
+
+
+
+a {
+  color: #F24516;
+}
+
+
+.fa-linkedin {
+  position: relative;
+  right: 10px;
+}
+
+.reviews img {
+  position: relative;
+  left: -50px;
+  margin: auto;
+}
+
+.card-img-top {
+  width: 280px;
+  height: 170px;
+  border-radius: 30px;
+  margin-top: 30px;
+  border-top: solid 1px grey;
+}
+
+.card {
+  border-radius: 30px;
+}
+
+.btn {
+  border-radius: 30px;
+}
+
+ul, li {
+  margin: 0px;
+  display: inline;
+  padding: 0px;
+}
+
+.rounded-circle {
+    border-radius: 0%;
+    border-top-left-radius: 0% !important;
+        border-top-right-radius: 0% !important;
+        border-bottom-right-radius: 0% !important;
+        border-bottom-left-radius: 0% !important;
+}
+
+.card {
+  margin-bottom: 30px;
+}
